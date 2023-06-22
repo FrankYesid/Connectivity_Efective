@@ -1,0 +1,246 @@
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cell/ismember', 'C:\Program Files\MATLAB\R2016b\toolbox\matlab\ops\@cell\ismember.p', 34)" style="font-weight:bold">cell/ismember</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016b\toolbox\matlab\ops\@cell\ismember.p',34,0)">line 34</a>)
+Input A of class double and input B
+of class cell must be cell arrays
+of character vectors, unless one is
+a character vector.
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Main_cx_efective', 'G:\Dropbox\ERD\Conectividad efectiva\Main_cx_efective.m', 88)" style="font-weight:bold">Main_cx_efective</a> (<a href="matlab: opentoline('G:\Dropbox\ERD\Conectividad efectiva\Main_cx_efective.m',88,0)">line 88</a>)
+    y_ = y; a_ =
+    ismember(y_,labels);} 
+opentoline('G:\Dropbox\ERD\Conectividad efectiva\Main_cx_efective.m',88,0)
+Main_cx_efective
+[Warning: please use cfg.method instead of
+cfg.toolbox] 
+ In <a href = "matlab: opentoline('F:\Toolbox\fieldtrip-master\ft_mvaranalysis.m',105,1)">ft_mvaranalysis at line 105</a>
+
+[Warning: Your path is set up incorrectly.
+You probably used
+addpath(genpath('path_to_fieldtrip')), this
+can lead to unexpected behaviour. See
+http://www.fieldtriptoolbox.org/faq/should_i_add_fieldtrip_with_all_subdirectories_to_my_matlab_path] 
+[Warning: Multiple versions of spm on your
+path will confuse FieldTrip] 
+[Warning: one version of spm is found here:
+F:\Toolbox\fieldtrip-master\external\spm12\spm.m] 
+[Warning: one version of spm is found here:
+F:\Toolbox\fieldtrip-master\external\spm2\spm.m] 
+[Warning: one version of spm is found here:
+F:\Toolbox\fieldtrip-master\external\spm8\spm.m] 
+[Warning: You probably used
+addpath(genpath('path_to_fieldtrip')), this
+can lead to unexpected behaviour. See
+http://www.fieldtriptoolbox.org/faq/should_i_add_fieldtrip_with_all_subdirectories_to_my_matlab_path] 
+[Warning: the data does not contain a trial
+definition] 
+[Warning: reconstructing sampleinfo by
+assuming that the trials are consecutive
+segments of a continuous recording] 
+> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fixsampleinfo', 'F:\Toolbox\fieldtrip-master\utilities\private\fixsampleinfo.m', 94)" style="font-weight:bold">fixsampleinfo</a> (<a href="matlab: opentoline('F:\Toolbox\fieldtrip-master\utilities\private\fixsampleinfo.m',94,0)">line 94</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ft_datatype_raw', 'F:\Toolbox\fieldtrip-master\utilities\ft_datatype_raw.m', 147)" style="font-weight:bold">ft_datatype_raw</a> (<a href="matlab: opentoline('F:\Toolbox\fieldtrip-master\utilities\ft_datatype_raw.m',147,0)">line 147</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ft_checkdata', 'F:\Toolbox\fieldtrip-master\utilities\ft_checkdata.m', 268)" style="font-weight:bold">ft_checkdata</a> (<a href="matlab: opentoline('F:\Toolbox\fieldtrip-master\utilities\ft_checkdata.m',268,0)">line 268</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ft_mvaranalysis', 'F:\Toolbox\fieldtrip-master\ft_mvaranalysis.m', 125)" style="font-weight:bold">ft_mvaranalysis</a> (<a href="matlab: opentoline('F:\Toolbox\fieldtrip-master\ft_mvaranalysis.m',125,0)">line 125</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fnc_Efective_granger', 'G:\Dropbox\ERD\Conectividad efectiva\fnc_Efective_granger.m', 39)" style="font-weight:bold">fnc_Efective_granger</a> (<a href="matlab: opentoline('G:\Dropbox\ERD\Conectividad efectiva\fnc_Efective_granger.m',39,0)">line 39</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Main_cx_efective', 'G:\Dropbox\ERD\Conectividad efectiva\Main_cx_efective.m', 102)" style="font-weight:bold">Main_cx_efective</a> (<a href="matlab: opentoline('G:\Dropbox\ERD\Conectividad efectiva\Main_cx_efective.m',102,0)">line 102</a>)
+[Warning: Your path is set up incorrectly.
+You probably used
+addpath(genpath('path_to_fieldtrip')), this
+can lead to unexpected behaviour. See
+http://www.fieldtriptoolbox.org/faq/should_i_add_fieldtrip_with_all_subdirectories_to_my_matlab_path] 
+the call to "ft_selectdata" took 1 seconds
+[Warning: Your path is set up incorrectly.
+You probably used
+addpath(genpath('path_to_fieldtrip')), this
+can lead to unexpected behaviour. See
+http://www.fieldtriptoolbox.org/faq/should_i_add_fieldtrip_with_all_subdirectories_to_my_matlab_path] 
+[Warning: Your path is set up incorrectly.
+You probably used
+addpath(genpath('path_to_fieldtrip')), this
+can lead to unexpected behaviour. See
+http://www.fieldtriptoolbox.org/faq/should_i_add_fieldtrip_with_all_subdirectories_to_my_matlab_path] 
+the call to "ft_selectdata" took 0 seconds
+preprocessing
+preprocessing trial 1 from 1
+
+the call to "ft_preprocessing" took 1 seconds
+
+the call to "ft_mvaranalysis" took 3 seconds
+[Warning: Your path is set up incorrectly.
+You probably used
+addpath(genpath('path_to_fieldtrip')), this
+can lead to unexpected behaviour. See
+http://www.fieldtriptoolbox.org/faq/should_i_add_fieldtrip_with_all_subdirectories_to_my_matlab_path] 
+the input is mvar data
+[Warning: Your path is set up incorrectly.
+You probably used
+addpath(genpath('path_to_fieldtrip')), this
+can lead to unexpected behaviour. See
+http://www.fieldtriptoolbox.org/faq/should_i_add_fieldtrip_with_all_subdirectories_to_my_matlab_path] 
+[Warning: could not determine dimord of "dof"
+in:
+
+         dimord: 'chan_chan_lag'
+          label: {22×1 cell}
+         coeffs: [22×22×5 double]
+       noisecov: [22×22 double]
+            dof: 1
+    fsampleorig: 250
+            cfg: [1×1 struct]
+] 
+the call to "ft_selectdata" took 0 seconds
+[Warning: Your path is set up incorrectly.
+You probably used
+addpath(genpath('path_to_fieldtrip')), this
+can lead to unexpected behaviour. See
+http://www.fieldtriptoolbox.org/faq/should_i_add_fieldtrip_with_all_subdirectories_to_my_matlab_path] 
+computing MAR-model based TFR
+processing timewindow 1 from 1
+
+the call to "ft_freqanalysis_mvar" took 1 seconds
+[Warning: Your path is set up incorrectly.
+You probably used
+addpath(genpath('path_to_fieldtrip')), this
+can lead to unexpected behaviour. See
+http://www.fieldtriptoolbox.org/faq/should_i_add_fieldtrip_with_all_subdirectories_to_my_matlab_path] 
+[Warning: Your path is set up incorrectly.
+You probably used
+addpath(genpath('path_to_fieldtrip')), this
+can lead to unexpected behaviour. See
+http://www.fieldtriptoolbox.org/faq/should_i_add_fieldtrip_with_all_subdirectories_to_my_matlab_path] 
+[Warning: could not determine dimord of "dof"
+in:
+
+         freq: [1×126 double]
+     transfer: [22×22×126 double]
+     noisecov: [22×22 double]
+    crsspctrm: [22×22×126 double]
+          dof: 1
+        label: {22×1 cell}
+       dimord: 'chan_chan_freq'
+          cfg: [1×1 struct]
+] 
+the call to "ft_selectdata" took 0 seconds
+the call to "ft_connectivityanalysis" took 1 seconds
+size(granger)
+ans =
+     1   136
+open tem_
+clc
+size(tem_.grangerspctrm)
+ans =
+    22    22   126
+max(max(max(tem_.grangerspctrm)))
+ans =
+    7.6048
+min(min(min(tem_.grangerspctrm)))
+ans =
+   -2.0211
+granger{tr} = abs(tem_.grangerspctrm/max(abs(tem_.grangerspctrm)));
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+Inputs must be 2-D, or at least one input
+must be scalar.
+To compute elementwise RDIVIDE, use RDIVIDE
+(./) instead.} 
+granger{tr} = abs(tem_.grangerspctrm)./max(abs(tem_.grangerspctrm)));
+ granger{tr} = abs(tem_.grangerspctrm)./max(abs(tem_.grangerspctrm)));
+                                                                    
+{Error: Unbalanced or unexpected parenthesis
+or bracket.
+} 
+granger{tr} = abs(tem_.grangerspctrm)./max(abs(tem_.grangerspctrm));
+open granger
+clc
+clear
+clc
+load('I:\cx_fun_2a\WPLI_cx_all_time11_1_.mat')
+size(wpli)
+ans =
+  Columns 1 through 3
+           1          22          22
+  Columns 4 through 5
+          73        1751
+Organizar_cx
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file
+'I:\cx_fun_2a\WPLI_cx_all_time'. No such file
+or directory.
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Organizar_cx', 'G:\Dropbox\ERD\Conectividad funcional\Organizar_cx.m', 4)" style="font-weight:bold">Organizar_cx</a> (<a href="matlab: opentoline('G:\Dropbox\ERD\Conectividad funcional\Organizar_cx.m',4,0)">line 4</a>)
+             load('I:\cx_fun_2a\WPLI_cx_all_time',num2str(s),num2str(cl),'_',num2str(fold),'_.mat')} 
+Organizar_cx
+Organizar_cx
+save('I:\cx_fun_2a\WPLI_cx_all_time.mat','wpli_')
+save('I:\cx_fun_2a\WPLI_cx_all_time.mat','wpli_')
+clc
+save('C:\Users\Lufe\Desktop\Nueva carpeta\WPLI_cx_all_time.mat','wpli_')
+if system_dependent('IsDebugMode')==1, dbquit; end
+clear
+clc
+load('C:\Users\Lufe\Desktop\Nueva carpeta\WPLI_cx_all_time.mat')
+load('C:\Users\Lufe\Desktop\Nueva carpeta\WPLI_cx_all_time.mat')
+clc
+Organizar_cx
+cl
+cl =
+     1
+save('C:\Users\Lufe\Desktop\Nueva carpeta\WPLI_cx_all_time.mat','wpli_')
+save('C:\Users\Lufe\Desktop\Nueva carpeta\WPLI_cx_all_time.mat','wpli_','-v7.3')
+clear
+clc
+Organizar_cx
+{Operation terminated by user during
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('Organizar_cx', 'G:\Dropbox\ERD\Conectividad funcional\Organizar_cx.m', 6)" style="font-weight:bold">Organizar_cx</a> (<a href="matlab: opentoline('G:\Dropbox\ERD\Conectividad funcional\Organizar_cx.m',6,0)">line 6</a>)} 
+Organizar_cx
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+Can not write file G:\Nueva
+carpeta\WPLI_cx_all_time_sub7_cl2.mat.
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Organizar_cx', 'G:\Dropbox\ERD\Conectividad funcional\Organizar_cx.m', 7)" style="font-weight:bold">Organizar_cx</a> (<a href="matlab: opentoline('G:\Dropbox\ERD\Conectividad funcional\Organizar_cx.m',7,0)">line 7</a>)
+        save(['G:\Nueva
+        carpeta\WPLI_cx_all_time_sub',num2str(s),'_cl',num2str(cl),'.mat'],'wpli_','-v7.3')} 
+clear
+clc
+Organizar_cx
+{Operation terminated by user during
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('Organizar_cx', 'G:\Dropbox\ERD\Conectividad funcional\Organizar_cx.m', 4)" style="font-weight:bold">Organizar_cx</a> (<a href="matlab: opentoline('G:\Dropbox\ERD\Conectividad funcional\Organizar_cx.m',4,0)">line 4</a>)} 
+clear
+clc
+Organizar_cx
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+Can not write file G:\Nueva
+carpeta\WPLI_cx_all_time_sub8_cl1.mat.
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Organizar_cx', 'G:\Dropbox\ERD\Conectividad funcional\Organizar_cx.m', 8)" style="font-weight:bold">Organizar_cx</a> (<a href="matlab: opentoline('G:\Dropbox\ERD\Conectividad funcional\Organizar_cx.m',8,0)">line 8</a>)
+        save(['G:\Nueva
+        carpeta\WPLI_cx_all_time_sub',num2str(s),'_cl',num2str(cl),'.mat'],'wpli_','-v7.3')} 
+clear
+clc
+Organizar_cx
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+Can not write file G:\Nueva
+carpeta\WPLI_cx_all_time_sub8_cl1.mat.
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Organizar_cx', 'G:\Dropbox\ERD\Conectividad funcional\Organizar_cx.m', 8)" style="font-weight:bold">Organizar_cx</a> (<a href="matlab: opentoline('G:\Dropbox\ERD\Conectividad funcional\Organizar_cx.m',8,0)">line 8</a>)
+        save(['G:\Nueva
+        carpeta\WPLI_cx_all_time_sub',num2str(s),'_cl',num2str(cl),'.mat'],'wpli_','-v7.3')} 
+clc
+open wpli_
+load('G:\Dropbox\ERD\Conectividad efectiva\Subs.mat')
+clc
+clear
+clc
+Organizar_cx
+if system_dependent('IsDebugMode')==1, dbquit; end
+clear
+Organizar_cx
+clear
+clc
+Organizar_cx
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file
+'I:\cx_fun_2a\WPLI_cx_all_time91_1_.mat'.
+No such file or directory.
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Organizar_cx', 'G:\Dropbox\ERD\Conectividad funcional\Organizar_cx.m', 14)" style="font-weight:bold">Organizar_cx</a> (<a href="matlab: opentoline('G:\Dropbox\ERD\Conectividad funcional\Organizar_cx.m',14,0)">line 14</a>)
+                load(['I:\cx_fun_2a\WPLI_cx_all_time',num2str(s),num2str(cl),'_',num2str(fold),'_.mat'])} 
+clc
+Organizar_cx
+<a href="matlab: opentoline('G:\Dropbox\ERD\Conectividad funcional\Organizar_cx.m',19,1)">19  </a>        end
+dbcont
+<a href="matlab: opentoline('G:\Dropbox\ERD\Conectividad funcional\Organizar_cx.m',19,1)">19  </a>        end
+if system_dependent('IsDebugMode')==1, dbquit; end
+clear
+clc
